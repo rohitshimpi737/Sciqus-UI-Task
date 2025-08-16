@@ -1,49 +1,72 @@
-# Getting Started with Create React App
+# Sciqus UI Frontend
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A responsive React website with Sciqus branding and interactive components.
 
-## Available Scripts
+## Features
 
-In the project directory, you can run:
+- Responsive design (desktop and mobile)
+- Sciqus purple/pink color scheme
+- 6 interactive containers
+- Account management solutions showcase
+- AI-powered analytics dashboard
 
-### `npm start`
+## Technologies
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- React 18.3.1
+- Styled Components
+- Material-UI Icons
+
+## Getting Started
+
+Install dependencies:
+```bash
+npm install
+```
+
+Start the development server:
+```bash
+npm start
+```
+
+Open [http://localhost:3000](http://localhost:3000) to view the app.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
 ### `npm run build`
 
 Builds the app for production to the `build` folder.\
 It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## 📱 Mobile-First Features
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Navigation
+- Hamburger menu with smooth slide animation
+- Overlay for mobile menu interactions
+- Touch-friendly button sizes (minimum 44px)
 
-### `npm run eject`
+### Layout Adaptations
+- Grid collapses from 2-column to 1-column
+- Reduced padding and margins for mobile
+- Optimized font sizes for readability
+- Stack buttons vertically on small screens
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## 🎨 Design Specifications
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### Responsive Breakpoints
+- **Mobile**: ≤ 480px
+- **Tablet**: ≤ 768px
+- **Desktop**: ≥ 769px
+- **Large Desktop**: ≥ 1200px
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+### Color Scheme
+- **Primary**: #667eea → #764ba2 (gradient)
+- **Secondary**: #4ECDC4
+- **Accent**: #FF6B6B
+- **Dark**: #2c3e50
+- **Background**: #f8f9fa
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+**Built with ❤️ for Sciqus UI Task - December 2024**
 
 ### Code Splitting
 
