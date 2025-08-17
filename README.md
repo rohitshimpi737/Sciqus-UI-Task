@@ -30,6 +30,17 @@ npm start
 
 Open [http://localhost:3000](http://localhost:3000) to view the app.
 
+## Screenshots
+
+### Desktop View
+![Desktop Screenshot 1](screenshot/Screenshot%202025-08-17%20132241.png)
+![Desktop Screenshot 2](screenshot/Screenshot%202025-08-17%20132257.png)
+
+### Mobile View
+![Mobile Screenshot 1](screenshot/Screenshot%202025-08-17%20132331.png)
+![Mobile Screenshot 2](screenshot/Screenshot%202025-08-17%20132409.png)
+![Mobile Screenshot 3](screenshot/Screenshot%202025-08-17%20132433.png)
+
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
